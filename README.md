@@ -8,7 +8,7 @@ This **Mahami** (My Tasks) application is the final project submission for the *
 
 You can view and interact with the live application deployed here:
 
-[**View Live Project**](https://mahmoudsamy007.github.io/todolist/)
+[**View Live Project**](https://msamyt.github.io/todolist/)
 
 ## ✨ Core Functionality (CRUD Implementation)
 
